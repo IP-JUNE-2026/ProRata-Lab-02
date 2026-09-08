@@ -1,4 +1,4 @@
-public class IT26101660Lab2Q2 {
+public class IT23267640 {
 
     public static void main(String[] args) {
 
