@@ -1,4 +1,4 @@
-public class IT26101660Lab2Q1 {
+public class IT23267640Lab2Q1 {
    
    public static void main(string[] args) {
    
