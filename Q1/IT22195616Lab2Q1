@@ -1,0 +1,18 @@
+public class IT22195616Lab2Q1{
+	public static void main(String[] args){
+		
+		//define the know perimeter
+		double perimeter = 100;
+		
+		//calculate the length
+		double length = perimeter / 3.5;
+		
+		//calculate the width
+		double width = 0.75 * length;
+		
+		System.out.println("length of the fence: " + length);
+		
+		System.out.println("width of the fence: " + width);
+	}
+	
+}
