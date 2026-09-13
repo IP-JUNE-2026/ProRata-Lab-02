@@ -1,0 +1,13 @@
+public class IT23376472Lab2Q3 {
+    public static void main(String[] args) {
+
+        int sideA = 3;
+        int sideB = 4;
+
+        double hypotenuse = Math.sqrt((sideA * sideA) + (sideB * sideB));
+
+        System.out.println("Side A = " + sideA);
+        System.out.println("Side B = " + sideB);
+        System.out.println("Hypotenuse = " + hypotenuse);
+    }
+}
