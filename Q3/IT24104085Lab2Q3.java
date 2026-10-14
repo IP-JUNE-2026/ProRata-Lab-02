@@ -1,0 +1,17 @@
+public class IT24104085Lab2Q3 {
+
+    public static void main(String[] arg) {
+
+        // Given lengths of the two legs of the right triangle
+
+        double sideA= 3.0;
+        double sideB= 4.0;
+
+        //Calulate the length of the hypotenuse using the pythagorean theorm
+        // c = squareroot(sideA^2 + sideB^2) 
+        double hypotenuse = Math.sqrt( sideA * sideA + sideB * sideB );
+
+       //Output the calculated hypotenuse
+       System.out.println("Length of the hypotenuse: "+ hypotenuse);
+   }
+}
